@@ -1,4 +1,7 @@
-# api documentation for  [gulp-compile-handlebars (v0.6.1)](https://github.com/kaanon/gulp-compile-handlebars)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-compile-handlebars.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-compile-handlebars) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-compile-handlebars.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-compile-handlebars)
+# npmdoc-gulp-compile-handlebars
+
+#### basic api documentation for  [gulp-compile-handlebars (v0.6.1)](https://github.com/kaanon/gulp-compile-handlebars)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-compile-handlebars.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-compile-handlebars) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-compile-handlebars.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-compile-handlebars)
+
 #### Compile Handlebars templates to file - gulp plugin
 
 [![NPM](https://nodei.co/npm/gulp-compile-handlebars.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-compile-handlebars)
@@ -71,7 +74,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.6.1"
+    "version": "0.6.1",
+    "bin": {}
 }
 ```
 
